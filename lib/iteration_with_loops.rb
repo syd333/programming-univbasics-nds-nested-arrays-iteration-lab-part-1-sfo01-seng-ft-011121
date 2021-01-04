@@ -9,6 +9,6 @@ while count < src.length do
   p src[count][inner_count] % 2 === 0
   inner_count += 1
 end
-end
 count += 1
+end
 end
